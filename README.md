@@ -32,6 +32,15 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+## Sources
+
+For this challenge using express.js I utilized a wide variety of sources to complete this challenge. I revisited course lectures from the week, solved activities, YouTube, previous challenges, Google, notes taken in class, and failing a lot before finding the solutions. I reached out to my instructor, class TA as well as colleagues to get a different approach, idea or even a fresh set of eyes just to look over my code for typos.
+ 
+## GitHub & Heroku Links
+
+* https://vast-mesa-48000-3671c5e5841b.herokuapp.com
+* https://github.com/jiujitsucarrot/note-taker
+
 ## Getting Started
 
 On the back end, the application should include a db.json file that will be used to store and retrieve notes using the fs module.
