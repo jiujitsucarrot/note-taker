@@ -25,6 +25,7 @@ app.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, 'public/notes.html'));
 });
 
+
 // API routes
 let notes = require('./db/db.json');
 
